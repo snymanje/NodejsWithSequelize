@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/snymanje/Nodejs_Playground/issues"
   },
-  "homepage": "https://github.com/snymanje/Nodejs_Playground#readme"
+  "homepage": "https://github.com/snymanje/Nodejs_Playground#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
